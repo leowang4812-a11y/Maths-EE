@@ -1,0 +1,40 @@
+papyrus	0.5	0.996728	
+red_background_image	0.5	0.999977	
+girl_face	0.5	0.998756	
+stained_glass	0.5	0.9978	
+leaf	0.5	1	
+trees	0.5	0.985786	
+water	0.5	0.994036	
+city	0.5	0.996034	
+cartoon cat	0.5	0.999809	
+cat	0.5	0.996146	
+papyrus	0.75	0.987295	
+red_background_image	0.75	0.999892	
+girl_face	0.75	0.995502	
+stained_glass	0.75	0.988474	
+leaf	0.75	1	
+trees	0.75	0.949842	
+water	0.75	0.979147	
+city	0.75	0.984409	
+cartoon cat	0.75	0.999195	
+cat	0.75	0.986177	
+papyrus	0.9	0.967837	
+red_background_image	0.9	0.999681	
+girl_face	0.9	0.990132	
+stained_glass	0.9	0.970273	
+leaf	0.9	1	
+trees	0.9	0.902126	
+water	0.9	0.955331	
+city	0.9	0.965826	
+cartoon cat	0.9	0.998076	
+cat	0.9	0.969417	
+papyrus	0.95	0.945326	
+red_background_image	0.95	0.999408	
+girl_face	0.95	0.984703	
+stained_glass	0.95	0.948873	
+leaf	0.95	1	
+trees	0.95	0.85775	
+water	0.95	0.932559	
+city	0.95	0.947065	
+cartoon cat	0.95	0.996518	
+cat	0.95	0.953923	
